@@ -1,0 +1,1 @@
+# gmds-assets
